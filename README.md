@@ -41,7 +41,7 @@ designed to reveal principles rather than implementation details.
 ## Progress
 
 - [x] Chapter 00: Introduction — Complexity & Feasibility
-- [ ] Chapter 01: Vector Representation
+- [x] Chapter 01: Vector Representation
 - [ ] Chapter 02: List & Dynamic Structures
 - [ ] Chapter 03: Stack & Queue Reasoning
 - [ ] Chapter 04: Tree & Hierarchical Models
