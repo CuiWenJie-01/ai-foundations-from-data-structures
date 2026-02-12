@@ -14,22 +14,22 @@ heuristics, and architectural constraints.
 
 ---
 # 输出结果
-=== Chapter 1: AI Feasibility & Complexity ===
+=== Chapter 01: Complexity & Feasibility (AI View) ===
 
-[ O(n) — Linear ]
-n = 10000    time = 0.000366s
-n = 50000    time = 0.002262s
-n = 100000   time = 0.003999s
+[ O(n) — Scalable ]
+n = 10000    time = 0.000694s
+n = 50000    time = 0.003551s
+n = 100000   time = 0.005447s
 
-[ O(n^2) — Quadratic ]
-n = 200      time = 0.001435s
-n = 400      time = 0.007190s
-n = 600      time = 0.018081s
+[ O(n^2) — Expensive ]
+n = 200      time = 0.002424s
+n = 400      time = 0.010382s
+n = 600      time = 0.023135s
 
-[ O(2^n) — Exponential ]
-n = 10       time = 0.000013s
-n = 20       time = 0.001155s
-n = 30       time = 0.149258s
+[ O(2^n) — Infeasible ]
+n = 10       time = 0.000021s
+n = 20       time = 0.002107s
+n = 30       time = 0.155255s
 
 # 理解
 ✅ 实现三个函数
