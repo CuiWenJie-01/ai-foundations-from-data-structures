@@ -46,7 +46,7 @@ designed to reveal principles rather than implementation details.
 - [x] Chapter 03: Stack & Queue Reasoning
 - [x] Chapter 04: Tree & Hierarchical Models
 - [x] Chapter 05: Graph & General Structures
-- [ ] Chapter 06: Search Trees & Pruning
+- [x] Chapter 06: Search Trees & Pruning
 - [ ] Chapter 07: High-Dimensional Structures
 - [ ] Chapter 08: Hashing & Memory Mapping
 - [ ] Chapter 09: Priority Queue & Selection
