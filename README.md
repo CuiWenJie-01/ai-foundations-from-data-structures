@@ -51,7 +51,7 @@ designed to reveal principles rather than implementation details.
 - [x] Chapter 08: Hashing & Memory Mapping
 - [x] Chapter 09: Priority Queue & Selection
 - [x] Chapter 10: String & Sequence Processing
-- [ ] Chapter 11: Sorting & Information Organization
+- [x] Chapter 11: Sorting & Information Organization
 
 ---
 
