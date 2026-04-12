@@ -49,7 +49,7 @@ designed to reveal principles rather than implementation details.
 - [x] Chapter 06: Search Trees & Pruning
 - [x] Chapter 07: High-Dimensional Structures
 - [x] Chapter 08: Hashing & Memory Mapping
-- [ ] Chapter 09: Priority Queue & Selection
+- [x] Chapter 09: Priority Queue & Selection
 - [ ] Chapter 10: String & Sequence Processing
 - [ ] Chapter 11: Sorting & Information Organization
 
